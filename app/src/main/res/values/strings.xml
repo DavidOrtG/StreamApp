@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginProyecto</string>
+    <string name="bienvenido_a_tvria">¡Bienvenido a TVRIA!</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="registrate">Registrate</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="no_te_has_registrado">¿No te has registrado?</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="al_registrarte_aceptas_nuestras_condiciones_y_nuestra_pol_tica_de_privacidad">Al registrarte, aceptas nuestras Condiciones y nuestra Política de privacidad.</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="registrate_para_comentar_y_descargar_tus_peliculas_favoritas">Registrate para comentar y descargar tus peliculas favoritas</string>
+    <string name="tvria">TVRIA</string>
+    <string name="breaking_bad">Breaking Bad</string>
+    <string name="spiderman">Spiderman</string>
+    <string name="joker">Joker</string>
+    <string name="sonic">Sonic</string>
+    <string name="tvria_app">TVRIA APP</string>
+    <color name="Azul_bonito">#008080</color>
+</resources>
